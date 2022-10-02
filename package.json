@@ -1,7 +1,7 @@
 {
-  "name": "Aquabot-MD",
+  "name": "DARK-Hiru-MD",
   "version": "1.0.0",
-  "description": "aquabot happy for whatsapp.",
+  "description": "Dark-Hiru happy for whatsapp.",
   "main": "/aquabot/bot.js",
   "type": "commonjs",
   "scripts": {
